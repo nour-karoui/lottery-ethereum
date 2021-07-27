@@ -46,7 +46,7 @@ A user simply chooses an amount of ether to send in order to enter the lottery, 
 A manager selects randomly a winner
 The winner gets all the ether collected in the lottery, and the game resets.
 
-<img src="https://user-images.githubusercontent.com/47257753/127236365-0fb0e1de-ecfd-4624-ab04-54e5d408f9ca.png" width="200px" /> 
+<img src="https://user-images.githubusercontent.com/47257753/127236365-0fb0e1de-ecfd-4624-ab04-54e5d408f9ca.png" width="300px" /> 
 
 <hr />
 
